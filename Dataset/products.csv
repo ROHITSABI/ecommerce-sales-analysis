@@ -1,0 +1,27 @@
+product_id,product_name,category,unit_price,unit_cost,supplier
+P0001,Wireless Mouse,Electronics,799,420,Supplier B
+P0002,Bluetooth Speaker,Electronics,2499,1450,Supplier C
+P0003,USB-C Hub,Electronics,1899,1050,Supplier C
+P0004,Keyboard,Electronics,1499,800,Supplier B
+P0005,Smart Watch,Electronics,4999,3100,Supplier D
+P0006,Headphones,Electronics,2999,1700,Supplier C
+P0007,Mixer Grinder,Home & Kitchen,3499,2200,Supplier B
+P0008,Air Fryer,Home & Kitchen,5999,3900,Supplier D
+P0009,Water Bottle,Home & Kitchen,599,220,Supplier C
+P0010,Storage Container Set,Home & Kitchen,899,390,Supplier C
+P0011,Casual T-Shirt,Fashion,699,250,Supplier D
+P0012,Running Shoes,Fashion,2499,1300,Supplier B
+P0013,Backpack,Fashion,1599,750,Supplier C
+P0014,Wrist Watch,Fashion,1999,900,Supplier D
+P0015,Face Wash,Beauty,299,110,Supplier C
+P0016,Skin Care Kit,Beauty,1299,620,Supplier D
+P0017,Hair Dryer,Beauty,1799,950,Supplier C
+P0018,Yoga Mat,Sports,999,420,Supplier A
+P0019,Cricket Bat,Sports,2199,1250,Supplier B
+P0020,Fitness Band,Sports,1999,1050,Supplier B
+P0021,Business Strategy Book,Books,499,180,Supplier A
+P0022,Data Analytics Handbook,Books,799,300,Supplier D
+P0023,Fiction Novel,Books,399,140,Supplier B
+P0024,Notebook Pack,Office Supplies,249,90,Supplier D
+P0025,Office Chair,Office Supplies,6999,4700,Supplier C
+P0026,Desk Lamp,Office Supplies,1199,580,Supplier A
